@@ -1,0 +1,761 @@
+{
+  "meta": {
+    "brand": "Da Strength Club",
+    "currency": "GBP",
+    "currency_symbol": "£",
+    "last_updated": "2025-03-23",
+    "total_products": 24
+  },
+
+  "categories": [
+    {
+      "id": "coaching",
+      "label": "Coaching Programmes",
+      "description": "Personalised 1-to-1 and group coaching packages — online and in-person."
+    },
+    {
+      "id": "digital",
+      "label": "Digital Training Plans",
+      "description": "Evidence-based downloadable programmes you can follow anywhere."
+    },
+    {
+      "id": "merch",
+      "label": "Apparel & Merchandise",
+      "description": "Premium Da Strength Club gear built for performance and recovery."
+    },
+    {
+      "id": "equipment",
+      "label": "Equipment & Accessories",
+      "description": "Hand-picked training tools used by our coaches and athletes."
+    }
+  ],
+
+  "products": [
+
+    {
+      "id": "p001",
+      "category": "coaching",
+      "name": "1-to-1 Online Coaching",
+      "tagline": "Your body. Your goals. Your programme.",
+      "description": "Fully customised online coaching with a dedicated Da Strength Club coach. Includes weekly check-ins, video analysis, nutrition guidance, and a fully periodised training plan updated each block. Suit all levels — from returning-from-injury to HYROX competitor.",
+      "price": 199,
+      "price_original": null,
+      "billing": "per month",
+      "badge": "Most Popular",
+      "badge_colour": "#1A6BFF",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["Online", "Personalised", "All Levels", "Global"],
+      "includes": [
+        "Bespoke 4-week training block",
+        "Weekly coach check-in (video call)",
+        "Video technique analysis",
+        "WhatsApp coach access",
+        "Nutrition & recovery guidance",
+        "Progress analytics dashboard"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete working with a personal trainer in a gym",
+      "rating": 4.9,
+      "review_count": 214
+    },
+
+    {
+      "id": "p002",
+      "category": "coaching",
+      "name": "HYROX Race Prep Programme",
+      "tagline": "Built to race. Built to podium.",
+      "description": "16-week race-specific programme designed by HYROX Pro competitors. Covers aerobic base building, functional strength, station-specific skill work, and peak tapering. Delivered online with weekly coach contact.",
+      "price": 249,
+      "price_original": null,
+      "billing": "per month",
+      "badge": "HYROX Specialist",
+      "badge_colour": "#F59E0B",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["HYROX", "Competition", "16 Weeks", "Online"],
+      "includes": [
+        "16-week periodised race plan",
+        "Station-by-station skill sessions",
+        "Running & conditioning blocks",
+        "Bi-weekly coach calls",
+        "Race week taper protocol",
+        "Benchmark testing protocol"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1568720215006-c2aa9e7ac6c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1568720215006-c2aa9e7ac6c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athletes performing HYROX-style functional training",
+      "rating": 4.9,
+      "review_count": 98
+    },
+
+    {
+      "id": "p003",
+      "category": "coaching",
+      "name": "Rehab & Return to Sport",
+      "tagline": "Come back stronger than before.",
+      "description": "Specialist return-to-performance coaching for athletes recovering from injury. Our rehab coaches design a phased loading programme using current pain science, progressive overload principles, and sport-specific movement benchmarks.",
+      "price": 219,
+      "price_original": null,
+      "billing": "per month",
+      "badge": "Injury Specialist",
+      "badge_colour": "#10B981",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["Rehab", "Recovery", "Return to Sport", "Pain Science"],
+      "includes": [
+        "Initial movement & pain screening",
+        "Phased loading protocol",
+        "Mobility & stability programming",
+        "Physiotherapy-informed plan",
+        "Sport-specific reintegration",
+        "Ongoing load monitoring"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1606820854416-439b3305ff39?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1606820854416-439b3305ff39?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1523251343397-9225e4cb6319?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Physiotherapist working with athlete on recovery exercises",
+      "rating": 4.8,
+      "review_count": 76
+    },
+
+    {
+      "id": "p004",
+      "category": "coaching",
+      "name": "Strength & Hypertrophy Block",
+      "tagline": "12 weeks of deliberate, driven progress.",
+      "description": "Structured 12-week strength and hypertrophy coaching block for intermediate to advanced lifters. Built around RIR-based progression, strategic deload weeks, and evidence-based volume landmarks.",
+      "price": 179,
+      "price_original": null,
+      "billing": "per month",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Strength", "Hypertrophy", "12 Weeks", "Intermediate+"],
+      "includes": [
+        "12-week block with deload weeks",
+        "RIR-based autoregulation",
+        "Accessory work bank",
+        "Weekly coach feedback",
+        "1RM testing protocol",
+        "End-of-block review"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete performing heavy barbell squat in commercial gym",
+      "rating": 4.8,
+      "review_count": 133
+    },
+
+    {
+      "id": "p005",
+      "category": "coaching",
+      "name": "Group Online Coaching",
+      "tagline": "Train with a community. Guided by experts.",
+      "description": "Our most affordable coaching option. Join a small cohort of 6–10 athletes with aligned goals. Shared programme, group check-ins, and community accountability — without sacrificing quality coaching.",
+      "price": 79,
+      "price_original": 119,
+      "billing": "per month",
+      "badge": "Save 34%",
+      "badge_colour": "#EF4444",
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Group", "Online", "Community", "Budget-Friendly"],
+      "includes": [
+        "Shared periodised programme",
+        "Bi-weekly group call",
+        "Private community channel",
+        "Monthly progress review",
+        "Q&A coaching sessions"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Group of athletes training together in a gym class",
+      "rating": 4.7,
+      "review_count": 59
+    },
+
+    {
+      "id": "p006",
+      "category": "digital",
+      "name": "12-Week Strength Foundation Plan",
+      "tagline": "The blueprint every beginner needs.",
+      "description": "A comprehensive, self-guided 12-week strength training programme for beginners to early intermediate lifters. Covers the foundational movement patterns with clear progression, technique cues, and an accompanying warm-up protocol library.",
+      "price": 29,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Digital Download",
+      "badge_colour": "#1A6BFF",
+      "in_stock": true,
+      "featured": false,
+      "tags": ["PDF", "Beginner", "Strength", "12 Weeks", "Self-Guided"],
+      "includes": [
+        "84-page programme PDF",
+        "Technique cue library",
+        "Warm-up & cool-down protocols",
+        "Progress tracking spreadsheet",
+        "Nutrition basics guide"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Training plan and notebook for structured strength programme",
+      "rating": 4.7,
+      "review_count": 302
+    },
+
+    {
+      "id": "p007",
+      "category": "digital",
+      "name": "HYROX Finisher — 8-Week Plan",
+      "tagline": "Cross the finish line stronger.",
+      "description": "A focused 8-week HYROX preparation plan for athletes who want a structured race-prep without full coaching. Covers all 8 HYROX stations, running intervals, and a 1-week taper. Compatible with any training schedule of 4–5 sessions per week.",
+      "price": 39,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Digital Download",
+      "badge_colour": "#F59E0B",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["HYROX", "PDF", "8 Weeks", "Race Prep"],
+      "includes": [
+        "8-week progressive race plan",
+        "Station-specific drills",
+        "Running pace zone guide",
+        "Race day strategy sheet",
+        "Equipment checklist"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1530655638484-de9f8f8ada0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1530655638484-de9f8f8ada0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete running on track for HYROX race preparation",
+      "rating": 4.8,
+      "review_count": 189
+    },
+
+    {
+      "id": "p008",
+      "category": "digital",
+      "name": "Mobility & Movement Restoration",
+      "tagline": "Move better. Hurt less. Perform longer.",
+      "description": "A 6-week daily mobility programme designed by our FMS-certified coaches. Targets the hips, thoracic spine, shoulders, and ankles. Ideal as a standalone programme or paired with any coaching package.",
+      "price": 19,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Digital Download",
+      "badge_colour": "#10B981",
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Mobility", "PDF", "6 Weeks", "Recovery", "Daily"],
+      "includes": [
+        "6-week daily mobility plan",
+        "Video demonstration links",
+        "Self-assessment guide",
+        "Morning & evening routines",
+        "Post-session flush protocols"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete performing deep hip mobility stretch",
+      "rating": 4.6,
+      "review_count": 97
+    },
+
+    {
+      "id": "p009",
+      "category": "digital",
+      "name": "Powerlifting Peaking Protocol",
+      "tagline": "Hit your best total on competition day.",
+      "description": "A science-backed 8-week powerlifting peaking plan with 4-week accumulation and 4-week intensification phases. Includes competition attempt selection guide and a meet-week warm-up strategy.",
+      "price": 34,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Powerlifting", "PDF", "Competition", "Advanced"],
+      "includes": [
+        "8-week peaking block",
+        "Accumulation + intensification phases",
+        "Attempt selection guide",
+        "Meet-week warm-up protocol",
+        "RPE & RIR tracking sheets"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1581009137042-c552e485697a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1581009137042-c552e485697a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Powerlifter deadlifting heavy barbell with chalk",
+      "rating": 4.9,
+      "review_count": 54
+    },
+
+    {
+      "id": "p010",
+      "category": "merch",
+      "name": "DSC Performance Tee",
+      "tagline": "Train hard. Look the part.",
+      "description": "Our flagship performance t-shirt. Made from 82% recycled polyester / 18% elastane — moisture-wicking, anti-odour, and built to move with you through every session. Available in 5 colourways.",
+      "price": 38,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Apparel", "T-Shirt", "Performance", "Unisex"],
+      "variants": [
+        { "label": "Black",        "colour_hex": "#1A1917", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Off White",    "colour_hex": "#F5F4F1", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Electric Blue","colour_hex": "#1A6BFF", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Slate",        "colour_hex": "#64748B", "sizes": ["S","M","L","XL"]            },
+        { "label": "Olive",        "colour_hex": "#6B7c44", "sizes": ["XS","S","M","L","XL"]       }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Premium athletic performance t-shirt flatlay on dark background",
+      "rating": 4.7,
+      "review_count": 412
+    },
+
+    {
+      "id": "p011",
+      "category": "merch",
+      "name": "DSC Quarter-Zip Training Top",
+      "tagline": "Your warm-up to cool-down layer.",
+      "description": "A mid-layer performance quarter-zip built for gym, track, and race morning. Fleece-lined inner with DWR-treated outer shell. Flatlock seams and a dropped hem for full squat coverage.",
+      "price": 72,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "New Arrival",
+      "badge_colour": "#1A6BFF",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["Apparel", "Quarter-Zip", "Layer", "Unisex"],
+      "variants": [
+        { "label": "Black",        "colour_hex": "#1A1917", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Charcoal",     "colour_hex": "#3D3B38", "sizes": ["S","M","L","XL"]            },
+        { "label": "Electric Blue","colour_hex": "#1A6BFF", "sizes": ["XS","S","M","L","XL"]       }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1556906781-9a412961a28b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1539533018257-5f756b7ee11d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556906781-9a412961a28b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1539533018257-5f756b7ee11d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete wearing quarter-zip athletic top before training session",
+      "rating": 4.8,
+      "review_count": 87
+    },
+
+    {
+      "id": "p012",
+      "category": "merch",
+      "name": "DSC Training Shorts",
+      "tagline": "Freedom of movement. Nothing less.",
+      "description": "5-inch inseam training shorts with 4-way stretch, built-in liner, and zip side pockets. Perfect for HYROX, strength sessions, or any high-output training day.",
+      "price": 48,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Apparel", "Shorts", "Training", "Unisex"],
+      "variants": [
+        { "label": "Black",    "colour_hex": "#1A1917", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Grey",     "colour_hex": "#9CA3AF", "sizes": ["XS","S","M","L","XL"]       },
+        { "label": "Navy",     "colour_hex": "#1e3a5f", "sizes": ["S","M","L","XL"]            }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete wearing athletic training shorts during sprint workout",
+      "rating": 4.6,
+      "review_count": 198
+    },
+
+    {
+      "id": "p013",
+      "category": "merch",
+      "name": "DSC Snapback Cap",
+      "tagline": "Clean. Bold. Built for the gym.",
+      "description": "Structured 6-panel snapback with embroidered Da Strength Club logo. 100% cotton twill with a flat brim and adjustable snap closure. One size fits all.",
+      "price": 28,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Accessories", "Cap", "Headwear"],
+      "variants": [
+        { "label": "Black / Blue logo", "colour_hex": "#1A1917" },
+        { "label": "White / Black logo","colour_hex": "#FFFFFF"  },
+        { "label": "Blue / White logo", "colour_hex": "#1A6BFF"  }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1572307480813-ceb0e59d8325?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1572307480813-ceb0e59d8325?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Premium snapback cap on flat surface — gym brand headwear",
+      "rating": 4.5,
+      "review_count": 143
+    },
+
+    {
+      "id": "p014",
+      "category": "merch",
+      "name": "DSC Training Bag",
+      "tagline": "Everything you need. Nowhere it doesn't belong.",
+      "description": "30L durable gym holdall with a separate ventilated shoe compartment, wet pocket, padded shoulder strap, and front zipper organiser. Built from 900D recycled polyester. Fits in an airline overhead locker.",
+      "price": 69,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Best Seller",
+      "badge_colour": "#F59E0B",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["Accessories", "Bag", "Travel", "Gym"],
+      "variants": [
+        { "label": "Black",   "colour_hex": "#1A1917" },
+        { "label": "Charcoal","colour_hex": "#3D3B38"  }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Premium gym holdall bag on clean background",
+      "rating": 4.8,
+      "review_count": 231
+    },
+
+    {
+      "id": "p015",
+      "category": "merch",
+      "name": "DSC Water Bottle — 750ml",
+      "tagline": "Hydrate like a professional.",
+      "description": "Double-walled stainless steel 750ml water bottle. Keeps liquids cold for 24 hours, hot for 12. Leak-proof lid, powder-coated finish, and dishwasher-safe. Embossed Da Strength Club wordmark.",
+      "price": 32,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Accessories", "Water Bottle", "Stainless Steel"],
+      "variants": [
+        { "label": "Matte Black",  "colour_hex": "#1A1917" },
+        { "label": "Glacier White","colour_hex": "#F5F4F1" },
+        { "label": "Ocean Blue",   "colour_hex": "#1A6BFF" }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1610639044534-cecea00c8cdb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1610639044534-cecea00c8cdb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Premium stainless steel insulated water bottle on concrete surface",
+      "rating": 4.7,
+      "review_count": 318
+    },
+
+    {
+      "id": "p016",
+      "category": "equipment",
+      "name": "Lifting Belt — 10mm Lever",
+      "tagline": "The only belt you'll ever need.",
+      "description": "IPF-approved 10mm single-ply leather lifting belt with a lever buckle for rapid on/off between sets. Used by our powerlifting and strength coaches. Available in 3 widths and 5 sizes.",
+      "price": 89,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Coach's Choice",
+      "badge_colour": "#1A6BFF",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["Equipment", "Lifting Belt", "Powerlifting", "IPF Approved"],
+      "variants": [
+        { "label": "3\" (76mm)", "sizes": ["XS (24-28\")", "S (29-33\")", "M (34-38\")", "L (39-43\")", "XL (44-48\")"] },
+        { "label": "4\" (101mm)","sizes": ["XS (24-28\")", "S (29-33\")", "M (34-38\")", "L (39-43\")", "XL (44-48\")"] }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "IPF-approved leather lever lifting belt on gym floor",
+      "rating": 4.9,
+      "review_count": 167
+    },
+
+    {
+      "id": "p017",
+      "category": "equipment",
+      "name": "Lifting Straps — Figure 8",
+      "tagline": "Grip more. Lift more. Waste less.",
+      "description": "Heavy-duty figure-8 cotton-neoprene lifting straps for deadlifts, rows, and shrugs. Eliminates grip as a limiting factor. Loop-and-lock design for maximum bar security.",
+      "price": 18,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Equipment", "Straps", "Deadlift", "Accessory"],
+      "image_primary": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Lifting straps wrapped around barbell in gym setting",
+      "rating": 4.6,
+      "review_count": 89
+    },
+
+    {
+      "id": "p018",
+      "category": "equipment",
+      "name": "Resistance Band Set — 5 Pack",
+      "tagline": "Warm up right. Recover better.",
+      "description": "Set of 5 latex-free mini loop resistance bands (light / medium / heavy / extra-heavy / monster heavy). Used in all Da Strength Club warm-up and prehab protocols. Comes in a carry pouch.",
+      "price": 22,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Bestseller",
+      "badge_colour": "#10B981",
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Equipment", "Bands", "Warm-Up", "Prehab", "Recovery"],
+      "image_primary": "https://images.unsplash.com/photo-1592632789003-d9ff59b0e88b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1598289431512-b97b0917affc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1592632789003-d9ff59b0e88b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1598289431512-b97b0917affc?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Set of colourful resistance bands laid on gym floor",
+      "rating": 4.7,
+      "review_count": 276
+    },
+
+    {
+      "id": "p019",
+      "category": "equipment",
+      "name": "Foam Roller — High Density 45cm",
+      "tagline": "Earn your recovery.",
+      "description": "Extra-firm high-density foam roller. 45cm x 15cm. EPP foam with a non-slip surface. Used in all Da Strength Club post-session protocols for myofascial release of quads, hamstrings, lats, and thoracic spine.",
+      "price": 26,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Equipment", "Recovery", "Foam Roller", "Mobility"],
+      "image_primary": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete using foam roller for post-workout recovery",
+      "rating": 4.5,
+      "review_count": 144
+    },
+
+    {
+      "id": "p020",
+      "category": "equipment",
+      "name": "Chalk Block — 8-Pack",
+      "tagline": "Don't let grip be the limit.",
+      "description": "Magnesium carbonate gymnasium chalk blocks. 8 x 56g blocks. Low-dust formula. Used by our powerlifting, Olympic lifting, and HYROX athletes. Suitable for all bar diameters.",
+      "price": 12,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Equipment", "Chalk", "Grip", "Lifting"],
+      "image_primary": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete with chalk-covered hands gripping barbell",
+      "rating": 4.6,
+      "review_count": 93
+    },
+
+    {
+      "id": "p021",
+      "category": "equipment",
+      "name": "Lacrosse Ball — Recovery Pack (x2)",
+      "tagline": "Get into the spots bands can't reach.",
+      "description": "Pair of high-density lacrosse balls for deep tissue point release. Used in all DSC mobility protocols for glutes, pecs, traps, calves, and plantar fascia. More targeted than any foam roller.",
+      "price": 14,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Equipment", "Recovery", "Lacrosse Ball", "Trigger Point"],
+      "image_primary": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Athlete using lacrosse ball for targeted muscle recovery",
+      "rating": 4.6,
+      "review_count": 61
+    },
+
+    {
+      "id": "p022",
+      "category": "coaching",
+      "name": "Free Intro Consultation",
+      "tagline": "No pressure. Just clarity.",
+      "description": "Not sure where to start? Book a free 20-minute video call with a Da Strength Club coach. We'll learn about your goals, history, and lifestyle — then recommend the right programme for you.",
+      "price": 0,
+      "price_original": null,
+      "billing": "free",
+      "badge": "Free",
+      "badge_colour": "#10B981",
+      "in_stock": true,
+      "featured": true,
+      "tags": ["Free", "Consultation", "All Levels", "No Commitment"],
+      "includes": [
+        "20-minute video call",
+        "Goal & history assessment",
+        "Programme recommendation",
+        "No obligation to purchase"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1590402494756-9b9fcc5a5474?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1590402494756-9b9fcc5a5474?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Fitness coach on a video call consultation with an athlete",
+      "rating": 5.0,
+      "review_count": 38
+    },
+
+    {
+      "id": "p023",
+      "category": "merch",
+      "name": "DSC Crew Neck Sweatshirt",
+      "tagline": "Post-training comfort. Premium weight.",
+      "description": "400gsm heavy-weight French terry sweatshirt. Relaxed fit, reinforced cuffs, and a ribbed hem. Embroidered DSC logo on the chest. The off-season staple you'll reach for every day.",
+      "price": 64,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": null,
+      "badge_colour": null,
+      "in_stock": true,
+      "featured": false,
+      "tags": ["Apparel", "Sweatshirt", "Casual", "Unisex"],
+      "variants": [
+        { "label": "Black",       "colour_hex": "#1A1917", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Ecru",        "colour_hex": "#F5F0E8", "sizes": ["XS","S","M","L","XL","XXL"] },
+        { "label": "Stone Grey",  "colour_hex": "#6B7280", "sizes": ["S","M","L","XL"]            }
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Premium heavyweight crew neck sweatshirt flatlay minimal background",
+      "rating": 4.8,
+      "review_count": 156
+    },
+
+    {
+      "id": "p024",
+      "category": "digital",
+      "name": "Nutrition for Performance Guide",
+      "tagline": "Fuel the work. Earn the results.",
+      "description": "A 60-page evidence-based nutrition guide written by Da Strength Club coaches. Covers protein targets, carbohydrate periodisation, pre/intra/post-workout fuelling, weight-class management, and supplement frameworks — without unnecessary complexity.",
+      "price": 24,
+      "price_original": null,
+      "billing": "one-off",
+      "badge": "Digital Download",
+      "badge_colour": "#1A6BFF",
+      "in_stock": true,
+      "featured": false,
+      "tags": ["PDF", "Nutrition", "Performance", "All Levels"],
+      "includes": [
+        "60-page nutrition guide PDF",
+        "Calorie & protein calculator sheet",
+        "Meal timing frameworks",
+        "Supplement tier list",
+        "Weight cut / weight gain protocols",
+        "Practical meal plan templates"
+      ],
+      "image_primary": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image_hover":   "https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=85"
+      ],
+      "alt_primary": "Healthy athlete meal prep with nutritious foods laid out",
+      "rating": 4.7,
+      "review_count": 182
+    }
+
+  ]
+}
